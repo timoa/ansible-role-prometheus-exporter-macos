@@ -1,0 +1,17 @@
+---
+dependencies:
+  - timoa.prometheus-exporter-macos
+
+galaxy_info:
+  author: timoa
+  description: Prometheus Exporter for macOS
+  company: "Timoa"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.5
+  platforms:
+    - name: MacOSX
+      versions:
+        - all
+        - any
+  galaxy_tags:
+    - monitoring
